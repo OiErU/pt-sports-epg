@@ -108,12 +108,6 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos motorizados</category>
   </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261016122200 +0000" stop="20261016125000 +0000">
-    <title lang="pt">Taça Libertadores: Estudiantes x Flamengo — Meia-Final, 1.ª Mão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do primeiro duelo das meias-finais da Taça Libertadores da América entre o Estudiantes de La Plata e o Flamengo, na Argentina. Reveja os golos, os lances polémicos e toda a emoção deste clássico entre o futebol argentino e brasileiro.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
   <programme channel="BTV.pt@HD" start="20261016122500 +0000" stop="20261016125900 +0000">
     <title lang="pt">Contas Feitas, Dúvidas Desfeitas</title>
     <desc lang="pt">Magazine especializado da BTV que analisa a vertente económica, financeira e empresarial da indústria do desporto. Um programa que descomplica relatórios de contas, receitas comerciais, direitos televisivos e o impacto económico da atividade do Sport Lisboa e Benfica.</desc>
@@ -131,7 +125,7 @@
     <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 3 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
-  <programme channel="DAZN4.pt@HD" start="20261016123500 +0000" stop="20261016180000 +0000">
+  <programme channel="DAZN4.pt@HD" start="20261016123500 +0000" stop="20261016131500 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
     <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
@@ -165,6 +159,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos motorizados</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016131500 +0000" stop="20261016135000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261016132800 +0000" stop="20261016135900 +0000">
     <title lang="pt">Taça Libertadores: Estudiantes x Flamengo — Meia-Final, 1.ª Mão (Resumo Alargado)</title>
     <desc lang="pt">Resumo alargado do primeiro duelo das meias-finais da Taça Libertadores da América entre o Estudiantes de La Plata e o Flamengo, na Argentina. Reveja os golos, os lances polémicos e toda a emoção deste clássico entre o futebol argentino e brasileiro.</desc>
@@ -182,6 +181,11 @@
     <desc lang="pt">Magazine de entrevistas da BTV dedicado à devoção clubística e às grandes figuras que marcaram décadas de história do Sport Lisboa e Benfica. Conversas intimistas sobre o significado de vestir o manto sagrado e as memórias inesquecíveis vividas dentro e fora das quatro linhas.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016135000 +0000" stop="20261016142500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV7.pt@HD" start="20261016135800 +0000" stop="20261016153000 +0000">
     <title lang="pt">Motociclismo: Enduro das Nações 2026 — Dia 5 em Grândola (Direto)</title>
@@ -226,6 +230,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016142500 +0000" stop="20261016150000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="DAZN3.pt@HD" start="20261016143000 +0000" stop="20261016161500 +0000">
     <title lang="pt">UEFA Champions League: RC Lens x Sporting CP</title>
     <desc lang="pt">Grande noite europeia na UEFA Champions League com o confronto entre os franceses do RC Lens e o Sporting Clube de Portugal. No fervoroso Stade Bollaert-Delelis, os leões enfrentam a intensidade física dos sang et or num teste exigente para as ambições leoninas na prova milionária.</desc>
@@ -243,6 +252,11 @@
     <desc lang="pt">Série documental eletrizante sobre o universo extremo das corridas de motociclismo em circuitos urbanos e estradas públicas. De Cookstown e do North West 200 ao Southern 100 na Ilha de Man e ao Grande Prémio de Macau, acompanhe os pilotos que desafiam os limites a mais de 300 km/h.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos motorizados</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016150000 +0000" stop="20261016154000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261016150000 +0000" stop="20261016170200 +0000">
     <title lang="pt">Taça Libertadores: Fluminense x Palmeiras — Meia-Final, 1.ª Mão (Diferido)</title>
@@ -265,6 +279,11 @@
   <programme channel="SPORTTV7.pt@HD" start="20261016153000 +0000" stop="20261016155800 +0000">
     <title lang="pt">Fora de Horas — Pausa na Emissão</title>
     <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016154000 +0000" stop="20261016161500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV4.pt@HD" start="20261016154500 +0000" stop="20261016164500 +0000">
@@ -313,6 +332,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016161500 +0000" stop="20261016165000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="BTV.pt@HD" start="20261016162500 +0000" stop="20261016163500 +0000">
     <title lang="pt">Fundação Benfica — Responsabilidade Social (Magazine)</title>
     <desc lang="pt">Magazine dedicado ao trabalho humanitário e de responsabilidade social desenvolvido pela Fundação Benfica em Portugal e no mundo. Conheça de perto os projetos de inclusão, promoção do sucesso educativo de jovens e concretização de sonhos que refletem os valores solidários do Sport Lisboa e Benfica.</desc>
@@ -349,6 +373,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016165000 +0000" stop="20261016172500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="DAZN5.pt@HD" start="20261016165000 +0000" stop="20261016175000 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
     <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 5 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
@@ -365,6 +394,11 @@
     <desc lang="pt">Resumo alargado do confronto entre SL Benfica e Celtic FC, realizado no Estádio da Luz a contar para a UEFA Europa League. Reveja os golos, as jogadas de maior perigo e os momentos determinantes deste duelo clássico entre os encarnados e o histórico emblema de Glasgow.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261016172500 +0000" stop="20261016180000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV4.pt@HD" start="20261016174500 +0000" stop="20261016181500 +0000">
     <title lang="pt">Râguebi: Taça dos Campeões — Antevisão da Época (Magazine)</title>
@@ -604,7 +638,7 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
-  <programme channel="DAZN5.pt@HD" start="20261016210000 +0000" stop="20261017073000 +0000">
+  <programme channel="DAZN5.pt@HD" start="20261016210000 +0000" stop="20261016213000 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
     <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
@@ -639,6 +673,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261016213000 +0000" stop="20261016220000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261016215700 +0000" stop="20261016222800 +0000">
     <title lang="pt">Últimas Notícias (Direto)</title>
     <desc lang="pt">Jornal desportivo atualizado em direto na Sport TV+ com a síntese das principais notícias que marcam a atualidade nacional e internacional. Resultados de última hora, declarações dos protagonistas, preparação dos grandes jogos e acompanhamento de todas as modalidades.</desc>
@@ -654,6 +693,11 @@
   <programme channel="SPORTTV6.pt@HD" start="20261016215800 +0000" stop="20261017015800 +0000">
     <title lang="pt">Fora de Horas — Pausa na Emissão</title>
     <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261016220000 +0000" stop="20261016223000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV4.pt@HD" start="20261016220000 +0000" stop="20261016221000 +0000">
@@ -709,6 +753,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261016223000 +0000" stop="20261016225500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="DAZN3.pt@HD" start="20261016224000 +0000" stop="20261017000000 +0000">
     <title lang="pt">Bundesliga: Eintracht Frankfurt x FC Colónia</title>
     <desc lang="pt">Duelo de enorme tradição na Bundesliga alemã entre o Eintracht Frankfurt e o 1. FC Köln, disputado no vibrante Deutsche Bank Park, em Frankfurt. Duas das massas adeptas mais apaixonadas da Alemanha criam um ambiente espetacular num confronto sempre intenso e disputado.</desc>
@@ -721,6 +770,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos de equipa</category>
     <category lang="pt">Rugby</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261016225500 +0000" stop="20261016232500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261016225600 +0000" stop="20261016232500 +0000">
     <title lang="pt">EFL Championship: Burnley x Wolverhampton (Resumo Alargado)</title>
@@ -771,9 +825,14 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
-  <programme channel="DAZN4.pt@HD" start="20261016232500 +0000" stop="20261017131500 +0000">
+  <programme channel="DAZN4.pt@HD" start="20261016232500 +0000" stop="20261017000000 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
     <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261016232500 +0000" stop="20261016235500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261016232500 +0000" stop="20261016235500 +0000">
@@ -794,15 +853,25 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Notícias</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261016235500 +0000" stop="20261017002000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261016235500 +0000" stop="20261017002500 +0000">
     <title lang="pt">UEFA Champions League: Real Bétis x FC Porto (Resumo Alargado)</title>
     <desc lang="pt">Resumo alargado do duelo da UEFA Champions League entre o Real Bétis e o FC Porto, realizado no Estádio Benito Villamarín, em Sevilha. Confira todos os golos, casos e lances de maior perigo deste confronto ibérico na principal prova europeia de clubes.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
-  <programme channel="DAZN3.pt@HD" start="20261017000000 +0000" stop="20261017090000 +0000">
+  <programme channel="DAZN3.pt@HD" start="20261017000000 +0000" stop="20261017004000 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
     <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017000000 +0000" stop="20261017003500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017001000 +0000" stop="20261017020600 +0000">
@@ -822,11 +891,31 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017002000 +0000" stop="20261017005000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261017002500 +0000" stop="20261017023100 +0000">
     <title lang="pt">Campeonato da Argentina: Boca Juniors x Talleres (Direto)</title>
     <desc lang="pt">Transmissão em direto do grande duelo do Campeonato da Argentina entre o Boca Juniors e o Talleres de Córdova, no mítico Estádio La Bombonera, em Buenos Aires. Perante o fervor inigualável dos adeptos xeneizes, o Boca procura impor a sua força caseira frente a um rival competitivo.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017003500 +0000" stop="20261017011000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017004000 +0000" stop="20261017012000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017005000 +0000" stop="20261017012000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="DAZN1.pt@HD" start="20261017005500 +0000" stop="20261017011000 +0000">
     <title lang="pt">UEFA Champions League: RC Lens x Sporting CP</title>
@@ -834,7 +923,7 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017010000 +0000" stop="20261017063000 +0000">
+  <programme channel="SPORTTV3.pt@HD" start="20261017010000 +0000" stop="20261017030000 +0000">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 3. A programação desportiva regressa no próximo horário agendado.</desc>
     <category lang="pt">Desporto</category>
@@ -847,11 +936,26 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017011000 +0000" stop="20261017015000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="BTV.pt@HD" start="20261017011500 +0000" stop="20261017014300 +0000">
     <title lang="pt">Benfica no Feminino</title>
     <desc lang="pt">Magazine semanal de entrevistas conduzido por Ana Moreira na BTV, inteiramente dedicado às mulheres que competem pelo Sport Lisboa e Benfica. Conheça os percursos de vida, a ambição e as conquistas das atletas e treinadoras do futebol e das modalidades femininas do clube.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017012000 +0000" stop="20261017020000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017012000 +0000" stop="20261017015500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV2.pt@HD" start="20261017012000 +0000" stop="20261017015000 +0000">
     <title lang="pt">Ténis: ATP This Week (Magazine)</title>
@@ -871,18 +975,33 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Notícias</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017015000 +0000" stop="20261017022500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV2.pt@HD" start="20261017015000 +0000" stop="20261017044900 +0000">
     <title lang="pt">ONE Championship: ONE Friday Fights (Diferido)</title>
     <desc lang="pt">Transmissão em diferido do espetáculo de artes marciais ONE Friday Fights, a partir do mítico Estádio Lumpinee, na capital tailandesa. Assista ao confronto entre a elite tailandesa do Muay Thai e desafiantes internacionais num palco histórico dos desportos de combate.</desc>
     <category lang="pt">Artes marciais</category>
     <category lang="pt">Desporto</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017015500 +0000" stop="20261017022500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV6.pt@HD" start="20261017015800 +0000" stop="20261017050000 +0000">
     <title lang="pt">Fora de Horas — Pausa na Emissão</title>
     <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017020000 +0000" stop="20261017070000 +0000">
+  <programme channel="DAZN3.pt@HD" start="20261017020000 +0000" stop="20261017024000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="SPORTTV4.pt@HD" start="20261017020000 +0000" stop="20261017040000 +0000">
     <title lang="pt">Sem Emissão</title>
     <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 4. A programação desportiva regressa no próximo horário agendado.</desc>
     <category lang="pt">Desporto</category>
@@ -906,6 +1025,16 @@
     <category lang="pt">Debate</category>
     <category lang="pt">Notícias</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017022500 +0000" stop="20261017030000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017022500 +0000" stop="20261017025500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="DAZN2.pt@HD" start="20261017023000 +0000" stop="20261017024500 +0000">
     <title lang="pt">UEFA Champions League: Resumo da Jornada 2 (Magazine)</title>
     <desc lang="pt">Programa oficial de resumos da 2.ª jornada da fase de liga da UEFA Champions League 2026/27. Reveja todos os golos, as grandes defesas, as estreias marcantes e a atualização da tabela classificativa única após mais uma semana de noites mágicas nos principais estádios da Europa.</desc>
@@ -917,6 +1046,11 @@
     <desc lang="pt">Resumo alargado do duelo da EFL Championship entre o Burnley e o Wolverhampton Wanderers, disputado no tradicional estádio de Turf Moor. Reveja todos os golos e lances determinantes de um confronto intenso entre dois clubes históricos na luta pela subida à Premier League.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017024000 +0000" stop="20261017032000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="BTV.pt@HD" start="20261017024100 +0000" stop="20261017033900 +0000">
     <title lang="pt">Uma Semana do Melhor</title>
@@ -930,17 +1064,44 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017025500 +0000" stop="20261017032500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017030000 +0000" stop="20261017033500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261017030000 +0000" stop="20261017050000 +0000">
     <title lang="pt">Ligue 1: Le Mans FC x Toulouse FC (Diferido)</title>
     <desc lang="pt">Transmissão em diferido do confronto da Liga Francesa de futebol entre o Le Mans FC e o Toulouse FC. Reveja todas as incidências, os golos e o duelo tático entre o conjunto anfitrião e a formação occitana de Toulouse numa jornada competitiva do futebol gaulês.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="SPORTTV3.pt@HD" start="20261017030000 +0000" stop="20261017050000 +0000">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 3. A programação desportiva regressa no próximo horário agendado.</desc>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Eventos desportivos</category>
+    <category lang="pt">Eventos especiais</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017030100 +0000" stop="20261017033200 +0000">
     <title lang="pt">Últimas Notícias (Direto)</title>
     <desc lang="pt">Jornal desportivo atualizado em direto na Sport TV+ com a síntese das principais notícias que marcam a atualidade nacional e internacional. Resultados de última hora, declarações dos protagonistas, preparação dos grandes jogos e acompanhamento de todas as modalidades.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Notícias</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017032000 +0000" stop="20261017040000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017032500 +0000" stop="20261017035500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="DAZN1.pt@HD" start="20261017033000 +0000" stop="20261017040000 +0000">
     <title lang="pt">Premier League Stories: Michael Carrick (Documentário)</title>
@@ -954,11 +1115,21 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017033500 +0000" stop="20261017041500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="BTV.pt@HD" start="20261017033900 +0000" stop="20261017041900 +0000">
     <title lang="pt">Benfica Grande Entrevista: Toni</title>
     <desc lang="pt">Edição especial de 'Benfica Grande Entrevista' na BTV com António Oliveira, o eterno Toni, símbolo maior da mística do Sport Lisboa e Benfica. Uma conversa profunda sobre as suas décadas de dedicação ao clube como grande médio, treinador campeão e verdadeiro guardião dos valores benfiquistas.</desc>
     <category lang="pt">Entrevista</category>
     <category lang="pt">Notícias</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017035500 +0000" stop="20261017042500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="DAZN1.pt@HD" start="20261017040000 +0000" stop="20261017060000 +0000">
     <title lang="pt">Viking FK x Bayern de Munique: UEFA Champions League</title>
@@ -966,9 +1137,26 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017040000 +0000" stop="20261017044000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="SPORTTV4.pt@HD" start="20261017040000 +0000" stop="20261017060000 +0000">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 4. A programação desportiva regressa no próximo horário agendado.</desc>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Eventos desportivos</category>
+    <category lang="pt">Eventos especiais</category>
+  </programme>
   <programme channel="SPORTTV5.pt@HD" start="20261017041200 +0000" stop="20261017045700 +0000">
     <title lang="pt">Fora de Horas — Pausa na Emissão</title>
     <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017041500 +0000" stop="20261017045000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="BTV.pt@HD" start="20261017041900 +0000" stop="20261017053800 +0000">
@@ -977,6 +1165,11 @@
     <category lang="pt">Andebol</category>
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos de equipa</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017042500 +0000" stop="20261017045500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017043100 +0000" stop="20261017050000 +0000">
     <title lang="pt">Râguebi: Taça dos Campeões — Antevisão da Época (Magazine)</title>
@@ -990,12 +1183,27 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017044000 +0000" stop="20261017052000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV2.pt@HD" start="20261017044900 +0000" stop="20261017070000 +0000">
     <title lang="pt">Rugby: Austrália x Nova Zelândia — Bledisloe Cup (Direto)</title>
     <desc lang="pt">Transmissão em direto do mítico clássico do hemisfério sul entre a Austrália e a Nova Zelândia, a contar para a histórica Bledisloe Cup. Os Wallabies e os lendários All Blacks protagonizam um dos duelos mais intensos e tradicionais do râguebi mundial.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos de equipa</category>
     <category lang="pt">Rugby</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017045000 +0000" stop="20261017052500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017045500 +0000" stop="20261017052500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV5.pt@HD" start="20261017045700 +0000" stop="20261017050000 +0000">
     <title lang="pt">Sem Emissão</title>
@@ -1016,6 +1224,13 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="SPORTTV3.pt@HD" start="20261017050000 +0000" stop="20261017063000 +0000">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 3. A programação desportiva regressa no próximo horário agendado.</desc>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Eventos desportivos</category>
+    <category lang="pt">Eventos especiais</category>
+  </programme>
   <programme channel="SPORTTV5.pt@HD" start="20261017050000 +0000" stop="20261017073500 +0000">
     <title lang="pt">Fora de Horas — Pausa na Emissão</title>
     <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
@@ -1031,6 +1246,21 @@
     <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
     <category lang="pt">Estilo de vida</category>
   </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017052000 +0000" stop="20261017060000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017052500 +0000" stop="20261017060000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017052500 +0000" stop="20261017055500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017053000 +0000" stop="20261017060000 +0000">
     <title lang="pt">Râguebi: Top 14 — Resumo da Jornada (Magazine)</title>
     <desc lang="pt">Balanço semanal da jornada do Top 14, o campeonato nacional de clubes de râguebi mais competitivo e exigente do mundo. Reveja os melhores ensaios, a intensidade física das fases estáticas e o brilho das estrelas internacionais que disputam a subida na tabela classificativa nos relvados franceses.</desc>
@@ -1042,6 +1272,11 @@
     <desc lang="pt">Programa da BTV que mergulha no ambiente vivido pelos sócios e adeptos do Sport Lisboa e Benfica antes e durante os grandes jogos. Um espaço de convívio, histórias de bancada e partilha da mística benfiquista em redor do Estádio da Luz e dos pavilhões.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017055500 +0000" stop="20261017060000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="DAZN1.pt@HD" start="20261017060000 +0000" stop="20261017075000 +0000">
     <title lang="pt">LaLiga Hypermotion: CD Leganés x Córdoba CF</title>
@@ -1055,11 +1290,33 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017060000 +0000" stop="20261017064000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017060000 +0000" stop="20261017064000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017060000 +0000" stop="20261017063000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017060000 +0000" stop="20261017063000 +0000">
     <title lang="pt">Motorcycle Sports — Magazine de Motociclismo</title>
     <desc lang="pt">Magazine dedicado aos apaixonados pelo motociclismo de competição e pelo universo das duas rodas. O programa analisa as provas dos campeonatos mundiais e nacionais de velocidade e todo-o-terreno, apresentando ainda ensaios técnicos, novidades das marcas e entrevistas com pilotos.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
+  </programme>
+  <programme channel="SPORTTV4.pt@HD" start="20261017060000 +0000" stop="20261017070000 +0000">
+    <title lang="pt">Sem Emissão</title>
+    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 4. A programação desportiva regressa no próximo horário agendado.</desc>
+    <category lang="pt">Desporto</category>
+    <category lang="pt">Eventos desportivos</category>
+    <category lang="pt">Eventos especiais</category>
   </programme>
   <programme channel="BTV.pt@HD" start="20261017060500 +0000" stop="20261017063000 +0000">
     <title lang="pt">Benfica 24 Horas</title>
@@ -1074,6 +1331,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos de equipa</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017063000 +0000" stop="20261017073000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017063000 +0000" stop="20261017070000 +0000">
     <title lang="pt">UEFA Champions League: RC Lens x Sporting CP (Resumo Alargado)</title>
     <desc lang="pt">Resumo alargado do duelo da UEFA Champions League entre o RC Lens e o Sporting CP, disputado no Stade Bollaert-Delelis, em França. Acompanhe todos os golos, os lances de maior perigo e os momentos determinantes da partida europeia da formação verde e branca.</desc>
@@ -1085,6 +1347,16 @@
     <desc lang="pt">Transmissão em direto da terceira volta do DP World India Championship, a contar para o circuito mundial DP World Tour. No tradicional 'Moving Day' de sábado, os golfistas de elite procuram ganhar posições na tabela de liderança antes da ronda final na Índia.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Golfe</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017064000 +0000" stop="20261017072000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017064000 +0000" stop="20261017071500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV1.pt@HD" start="20261017065500 +0000" stop="20261017085500 +0000">
     <title lang="pt">EFL Championship: Burnley x Wolverhampton (Diferido)</title>
@@ -1115,6 +1387,16 @@
     <desc lang="pt">Transmissão em direto da icónica Praia de Supertubos, em Peniche, palco do MEO Rip Curl Pro Portugal do circuito mundial da World Surf League (WSL). Os melhores surfistas masculinos e femininos do planeta enfrentam os famosos tubos pesados da costa oeste portuguesa na luta pelo título mundial.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos aquáticos</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017071500 +0000" stop="20261017075000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017072000 +0000" stop="20261017080000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV4.pt@HD" start="20261017072000 +0000" stop="20261017073000 +0000">
     <title lang="pt">Motociclismo: Enduro das Nações 2026 — Resumo do Dia (Resumo Alargado)</title>
@@ -1163,6 +1445,16 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017075000 +0000" stop="20261017082500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017080000 +0000" stop="20261017084000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV.pt@HD" start="20261017080000 +0000" stop="20261017095000 +0000">
     <title lang="pt">EFL Championship: Burnley x Wolverhampton (Diferido)</title>
     <desc lang="pt">Transmissão em diferido da partida da EFL Championship entre o Burnley e o Wolverhampton Wanderers, realizada em Turf Moor. Acompanhe na íntegra este embate competitivo do sempre exigente segundo escalão do futebol profissional inglês.</desc>
@@ -1192,6 +1484,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017082500 +0000" stop="20261017090000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="DAZN2.pt@HD" start="20261017083000 +0000" stop="20261017084500 +0000">
     <title lang="pt">UEFA Champions League: RC Lens x Sporting CP</title>
     <desc lang="pt">Grande noite europeia na UEFA Champions League com o confronto entre os franceses do RC Lens e o Sporting Clube de Portugal. No fervoroso Stade Bollaert-Delelis, os leões enfrentam a intensidade física dos sang et or num teste exigente para as ambições leoninas na prova milionária.</desc>
@@ -1210,7 +1507,12 @@
     <category lang="pt">Debate</category>
     <category lang="pt">Notícias</category>
   </programme>
-  <programme channel="DAZN5.pt@HD" start="20261017084000 +0000" stop="20261017125600 +0000">
+  <programme channel="DAZN3.pt@HD" start="20261017084000 +0000" stop="20261017090000 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017084000 +0000" stop="20261017085600 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Desporto Motorizado)</title>
     <desc lang="pt">Espaço de programação desportiva (desporto motorizado) na grelha da DAZN 5 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
     <category lang="pt">Estilo de vida</category>
@@ -1227,6 +1529,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Futebol</category>
   </programme>
+  <programme channel="DAZN5.pt@HD" start="20261017085600 +0000" stop="20261017125600 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Desporto Motorizado)</title>
+    <desc lang="pt">Espaço de programação desportiva (desporto motorizado) na grelha da DAZN 5 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="BTV.pt@HD" start="20261017085900 +0000" stop="20261017093100 +0000">
     <title lang="pt">Benfica 10 Horas</title>
     <desc lang="pt">Primeiro grande bloco informativo diário da BTV, com todas as notícias da manhã sobre o universo do Sport Lisboa e Benfica. Acompanhe a preparação das equipas no Benfica Campus, a agenda competitiva das modalidades e os destaques da imprensa desportiva.</desc>
@@ -1238,6 +1545,11 @@
     <desc lang="pt">Revista completa do WTA 1000 de Pequim (China Open), um dos torneios mais prestigiados e decisivos da digressão asiática de piso rápido. Reveja o caminho até ao título no Centro Nacional de Ténis da capital chinesa, com os melhores pontos e as surpresas da competição.</desc>
     <category lang="pt">Desporto</category>
     <category lang="pt">Ténis</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017090000 +0000" stop="20261017093500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="SPORTTV6.pt@HD" start="20261017090000 +0000" stop="20261017115500 +0000">
     <title lang="pt">Fora de Horas — Pausa na Emissão</title>
@@ -1269,6 +1581,11 @@
     <category lang="pt">Andebol</category>
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos de equipa</category>
+  </programme>
+  <programme channel="DAZN4.pt@HD" start="20261017093500 +0000" stop="20261017131500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
+    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
+    <category lang="pt">Estilo de vida</category>
   </programme>
   <programme channel="DAZN1.pt@HD" start="20261017094000 +0000" stop="20261017112000 +0000">
     <title lang="pt">UEFA Champions League: Real Betis x FC Porto</title>
@@ -1394,7 +1711,7 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
-  <programme channel="DAZN3.pt@HD" start="20261017115000 +0000" stop="20261017183000 +0000">
+  <programme channel="DAZN3.pt@HD" start="20261017115000 +0000" stop="20261017140500 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol em Direto)</title>
     <desc lang="pt">Janela reservada na grelha da DAZN 3 PT para transmissão desportiva de futebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
     <category lang="pt">Estilo de vida</category>
@@ -1576,6 +1893,11 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos motorizados</category>
   </programme>
+  <programme channel="DAZN3.pt@HD" start="20261017140500 +0000" stop="20261017162500 +0000">
+    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol em Direto)</title>
+    <desc lang="pt">Janela reservada na grelha da DAZN 3 PT para transmissão desportiva de futebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
+    <category lang="pt">Estilo de vida</category>
+  </programme>
   <programme channel="SPORTTV2.pt@HD" start="20261017143000 +0000" stop="20261017145000 +0000">
     <title lang="pt">Magazine Paralímpico — Desporto Adaptado</title>
     <desc lang="pt">Magazine dedicado à atualidade do movimento paralímpico nacional e internacional e às diversas modalidades do desporto adaptado. Conheça as histórias de superação, os métodos de treino de alta competição e os grandes resultados conquistados pelos atletas paralímpicos.</desc>
@@ -1588,7 +1910,7 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Magazine de desporto</category>
   </programme>
-  <programme channel="DAZN5.pt@HD" start="20261017143500 +0000" stop="20261017165000 +0000">
+  <programme channel="DAZN5.pt@HD" start="20261017143500 +0000" stop="20261017153500 +0000">
     <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
     <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
     <category lang="pt">Estilo de vida</category>
@@ -1605,1200 +1927,5 @@
     <category lang="pt">Desporto</category>
     <category lang="pt">Desportos de equipa</category>
     <category lang="pt">Voleibol</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017150000 +0000" stop="20261017152000 +0000">
-    <title lang="pt">Vamos à Bola: Gil Vicente FC — Barcelos (Magazine)</title>
-    <desc lang="pt">Reportagem especial do programa «Vamos à Bola» dedicada ao Gil Vicente Futebol Clube e à cidade de Barcelos. O repórter Rui Simões dá a conhecer as tradições minhotas, os bastidores do clube gilista e o fervor dos adeptos barcelenses fora das quatro linhas na Liga Portugal.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017150000 +0000" stop="20261017153000 +0000">
-    <title lang="pt">Liga Saudita: Al Ahli x Al Nassr (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do grande clássico da Saudi Pro League entre o Al Ahli e o Al Nassr, disputado no Estádio Cidade do Desporto Rei Abdullah, em Jidá. Reveja todos os golos e lances de destaque de um embate repleto de estrelas internacionais na luta pelo título saudita.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261017150000 +0000" stop="20261017183000 +0000">
-    <title lang="pt">Surf: World Surf League — MEO Rip Curl Pro Portugal (Direto)</title>
-    <desc lang="pt">Transmissão em direto da icónica Praia de Supertubos, em Peniche, palco do MEO Rip Curl Pro Portugal do circuito mundial da World Surf League (WSL). Os melhores surfistas masculinos e femininos do planeta enfrentam os famosos tubos pesados da costa oeste portuguesa na luta pelo título mundial.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos aquáticos</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017150500 +0000" stop="20261017171500 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Direto)</title>
-    <desc lang="pt">Transmissão em direto do encontro da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, a partir do Stade de la Meinau, na Alsácia. O campeão francês enfrenta um ambiente sempre elétrico no leste de França perante um Estrasburgo aguerrido em sua casa.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017152000 +0000" stop="20261017160000 +0000">
-    <title lang="pt">Quem É o Pro? — Com André Almeida e Sílvio (Magazine)</title>
-    <desc lang="pt">Programa de entretenimento desportivo onde os antigos internacionais portugueses André Almeida e Sílvio tentam descobrir qual dos cinco concorrentes é ou foi futebolista profissional. Ao longo de quatro desafios técnicos e de conversa, os convidados eliminam os impostores até à revelação final.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN4.pt@HD" start="20261017153000 +0000" stop="20261017160000 +0000">
-    <title lang="pt">Bundesliga Clubs: Borussia Dortmund (Magazine)</title>
-    <desc lang="pt">Episódio da série documental 'Bundesliga Clubs' dedicado ao histórico Borussia Dortmund. Conheça a identidade única do emblema aurinegro da região do Ruhr, a paixão lendária da 'Muralha Amarela' no Signal Iduna Park e as grandes conquistas nacionais e europeias do clube.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017153000 +0000" stop="20261017155000 +0000">
-    <title lang="pt">Vamos à Bola: Gil Vicente FC — Barcelos (Magazine)</title>
-    <desc lang="pt">Reportagem especial do programa «Vamos à Bola» dedicada ao Gil Vicente Futebol Clube e à cidade de Barcelos. O repórter Rui Simões dá a conhecer as tradições minhotas, os bastidores do clube gilista e o fervor dos adeptos barcelenses fora das quatro linhas na Liga Portugal.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017153000 +0000" stop="20261017155500 +0000">
-    <title lang="pt">AutoGear (Magazine)</title>
-    <desc lang="pt">Magazine especializado no setor automóvel que apresenta as mais recentes novidades da indústria, ensaios dinâmicos de estrada e comparativos detalhados. O programa aborda ainda os grandes desafios da transição energética, mobilidade sustentável e segurança rodoviária.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261017153000 +0000" stop="20261017162500 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017155000 +0000" stop="20261017180000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Direto)</title>
-    <desc lang="pt">Transmissão em direto do confronto da Serie A entre o Bolonha e o Inter de Milão, a partir do Estádio Renato Dall'Ara. Um teste de alto grau de dificuldade para os nerazzurri perante um Bolonha sempre temível perante o seu público na Emília-Romanha.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017155500 +0000" stop="20261017180000 +0000">
-    <title lang="pt">Fenerbahçe x Alanyaspor: Superliga Turca (Direto)</title>
-    <desc lang="pt">Transmissão em direto a partir do Estádio Şükrü Saracoğlu, em Istambul, para o encontro da Superliga Turca entre o Fenerbahçe e o Alanyaspor. Empurrado por um ambiente ensurdecedor nas bancadas de Kadıköy, o colosso de Istambul procura confirmar o favoritismo frente ao emblema da Riviera Turca.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017155700 +0000" stop="20261017175700 +0000">
-    <title lang="pt">Basquetebol: SL Benfica x UD Oliveirense — Liga Betclic (Direto)</title>
-    <desc lang="pt">Transmissão em direto do Pavilhão Fidelidade, em Lisboa, para o clássico do basquetebol nacional entre o SL Benfica e a UD Oliveirense. Duas equipas com forte tradição e palmarés na Liga Betclic protagonizam um duelo físico nos ressaltos e intenso no lançamento exterior.</desc>
-    <category lang="pt">Basquetebol</category>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017160000 +0000" stop="20261017162000 +0000">
-    <title lang="pt">Premier League — The Big Interview: Patrick Vieira (Ep. 5)</title>
-    <desc lang="pt">Entrevista em profundidade do programa «The Big Interview» da Premier League com o lendário médio francês Patrick Vieira. O antigo capitão do Arsenal recorda a histórica época dos «Invencíveis», os duelos épicos no meio-campo inglês e a sua visão como treinador.</desc>
-    <category lang="pt">Celebridades</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="DAZN4.pt@HD" start="20261017160000 +0000" stop="20261017171000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
-    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017160000 +0000" stop="20261017163000 +0000">
-    <title lang="pt">Notícias Extra — Atualização Desportiva (Direto)</title>
-    <desc lang="pt">Emissão informativa especial em direto na Sport TV para acompanhamento das notícias de última hora no panorama desportivo. Ligações em direto aos estádios, reações rápidas dos protagonistas e síntese atualizada dos principais acontecimentos do futebol e das modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261017160000 +0000" stop="20261017180000 +0000">
-    <title lang="pt">Premier Padel: Milão P1 — Meia-Final Feminina (Direto)</title>
-    <desc lang="pt">Transmissão em direto das meias-finais femininas do torneio Milão P1 do circuito Premier Padel, em Itália. As principais cabeças de série do ranking mundial lutam ponto a ponto na arena Allianz Cloud por um lugar na grande final de domingo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Padel</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261017161000 +0000" stop="20261017162000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017162000 +0000" stop="20261017183000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 1 PT para transmissão desportiva de futebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261017162000 +0000" stop="20261017183000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
-    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 2 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261017162500 +0000" stop="20261017183000 +0000">
-    <title lang="pt">Rugby: Connacht Rugby x Saracens — Taça dos Campeões (Direto)</title>
-    <desc lang="pt">Transmissão em direto do embate da Taça dos Campeões Europeus de râguebi entre a província irlandesa do Connacht Rugby e os ingleses dos Saracens, em Galway. A garra irlandesa no vento da costa oeste desafia um dos clubes mais titulados do râguebi britânico e europeu.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Rugby</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017163000 +0000" stop="20261017170000 +0000">
-    <title lang="pt">Superbike World SBK: GP de Espanha — Resumo de Sábado (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado da jornada de sábado do Grande Prémio de Espanha de WorldSBK, disputado no Circuito de Jerez - Ángel Nieto. Recorde a luta pelos melhores lugares da grelha na Tissot Superpole e todas as emoções das primeiras corridas do fim de semana nas diversas classes.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261017165000 +0000" stop="20261017174000 +0000">
-    <title lang="pt">Magazine GRIP: Competições Nacionais de Automobilismo (Ep. 1)</title>
-    <desc lang="pt">Magazine dedicado ao melhor do desporto motorizado disputado em Portugal. Acompanhe as provas dos campeonatos nacionais de ralis, velocidade em pista, montanha e todo-o-terreno, com imagens espetaculares, resumos das corridas e declarações dos pilotos e equipas em destaque.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017170000 +0000" stop="20261017180000 +0000">
-    <title lang="pt">Especial Informação: Debate das Eleições de Os Belenenses</title>
-    <desc lang="pt">Emissão especial de informação desportiva dedicada às eleições para os órgãos sociais do Clube de Futebol 'Os Belenenses'. Os candidatos à presidência do histórico emblema da Cruz de Cristo confrontam ideias, projetos financeiros e visões estratégicas para o futuro do clube do Restelo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="DAZN4.pt@HD" start="20261017171000 +0000" stop="20261017210000 +0000">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Período sem emissão ativa na grelha da DAZN 4 PT. A programação desportiva regressa no próximo horário agendado.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261017171000 +0000" stop="20261017174000 +0000">
-    <title lang="pt">SL Benfica x Celtic FC: UEFA Europa League (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do confronto entre SL Benfica e Celtic FC, realizado no Estádio da Luz a contar para a UEFA Europa League. Reveja os golos, as jogadas de maior perigo e os momentos determinantes deste duelo clássico entre os encarnados e o histórico emblema de Glasgow.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017171500 +0000" stop="20261017173000 +0000">
-    <title lang="pt">Desporto Automóvel Nacional: Eco Rally Madeira (Magazine)</title>
-    <desc lang="pt">Magazine dedicado ao Eco Rally Madeira, prova pontuável para a Bridgestone FIA EcoRally Cup e para o Campeonato de Portugal de Novas Energias. Acompanhe a competição de regularidade destinada a veículos 100% elétricos nas exigentes e sinuosas estradas da ilha da Madeira.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017173000 +0000" stop="20261017181500 +0000">
-    <title lang="pt">Ténis de Mesa: Campeonato da Europa Individual 2026 — Final de Pares Masculinos (Direto)</title>
-    <desc lang="pt">Transmissão em direto da Final de Pares Masculinos do Campeonato da Europa Individual de Ténis de Mesa de 2026. Coordenação perfeita nas deslocações, agressividade na resposta ao serviço e sintonia tática colocam à prova as duas duplas finalistas na luta pelo título de campeões europeus.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis de mesa</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261017174000 +0000" stop="20261017203500 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Desporto Motorizado)</title>
-    <desc lang="pt">Espaço de programação desportiva (desporto motorizado) na grelha da DAZN 5 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261017174000 +0000" stop="20261017181000 +0000">
-    <title lang="pt">Copa Sul-Americana: Boca Juniors x Vasco da Gama — Meia-Final, 1.ª Mão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado da primeira mão da meia-final da Copa Sul-Americana entre os argentinos do Boca Juniors e os brasileiros do Vasco da Gama, em La Bombonera. Reveja os golos e os momentos mais quentes deste clássico sul-americano na luta por um lugar na final continental.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017175700 +0000" stop="20261017193000 +0000">
-    <title lang="pt">Futsal Feminino: SL Benfica x Santa Luzia FC — Campeonato Nacional (Direto)</title>
-    <desc lang="pt">Transmissão em direto do Pavilhão Fidelidade para o embate de cartaz do Campeonato Nacional de Futsal Feminino entre o SL Benfica e o Santa Luzia FC. As encarnadas recebem o competitivo conjunto de Viana do Castelo num encontro de elevada intensidade tática na luta pelo topo da tabela.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-    <category lang="pt">Futsal</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017180000 +0000" stop="20261017183000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017180000 +0000" stop="20261017183500 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017180000 +0000" stop="20261017181000 +0000">
-    <title lang="pt">Golfe — Circuito FPG: Final Nacional Drive Challenge (Magazine)</title>
-    <desc lang="pt">Magazine especial sobre a Final Nacional do Circuito Drive Challenge, competição organizada pela Federação Portuguesa de Golfe dedicada aos jovens talentos. Reveja as melhores pancadas, o espírito desportivo e a evolução técnica da nova geração do golfe português em competição.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261017180000 +0000" stop="20261017200000 +0000">
-    <title lang="pt">Premier Padel: Milão P1 — Meia-Final Masculina (Direto)</title>
-    <desc lang="pt">Transmissão em direto das meias-finais masculinas do Milão P1, prova de categoria P1 do circuito mundial Premier Padel. Com a Allianz Cloud ao rubro, as quatro melhores duplas do torneio travam batalhas espetaculares pelo acesso ao jogo do título em solo transalpino.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Padel</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261017181000 +0000" stop="20261017184000 +0000">
-    <title lang="pt">Taça Libertadores: Fluminense x Palmeiras — Meia-Final, 1.ª Mão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do eletrizante duelo brasileiro entre Fluminense e Palmeiras, referente à primeira mão das meias-finais da Taça Libertadores da América. Reveja os golos, os lances capitais e toda a intensidade vivida no Estádio do Maracanã, no Rio de Janeiro, na caminhada rumo à grande final.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017181000 +0000" stop="20261017184000 +0000">
-    <title lang="pt">Superbike World SBK: GP de Espanha — Resumo de Sábado (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado da jornada de sábado do Grande Prémio de Espanha de WorldSBK, disputado no Circuito de Jerez - Ángel Nieto. Recorde a luta pelos melhores lugares da grelha na Tissot Superpole e todas as emoções das primeiras corridas do fim de semana nas diversas classes.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017181500 +0000" stop="20261017190000 +0000">
-    <title lang="pt">Ténis de Mesa: Campeonato da Europa Individual 2026 — Final de Pares Femininos (Direto)</title>
-    <desc lang="pt">Transmissão em direto da Final de Pares Femininos do Campeonato da Europa Individual de Ténis de Mesa de 2026. Rapidez de reação, colocação milimétrica de bola e entrosamento absoluto marcam o embate decisivo pela conquista do ouro europeu de duplas.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis de mesa</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017183000 +0000" stop="20261017185000 +0000">
-    <title lang="pt">FreeTour LaLiga 2026/27 (Magazine)</title>
-    <desc lang="pt">Magazine especial que percorre a geografia, a cultura e a paixão em redor dos clubes da LaLiga espanhola na temporada 2026/2027. Uma viagem pelas cidades, estádios históricos e tradições locais que dão vida a um dos campeonatos de futebol mais espetaculares e carismáticos do planeta.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261017183000 +0000" stop="20261017203000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN3.pt@HD" start="20261017183000 +0000" stop="20261018000000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 3 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017183000 +0000" stop="20261017190000 +0000">
-    <title lang="pt">Notícias Extra — Atualização Desportiva (Direto)</title>
-    <desc lang="pt">Emissão informativa especial em direto na Sport TV para acompanhamento das notícias de última hora no panorama desportivo. Ligações em direto aos estádios, reações rápidas dos protagonistas e síntese atualizada dos principais acontecimentos do futebol e das modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261017183000 +0000" stop="20261017185500 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261017183000 +0000" stop="20261017213000 +0000">
-    <title lang="pt">MMA: Cage Warriors 211 — Roma (Direto)</title>
-    <desc lang="pt">Transmissão em direto da gala Cage Warriors 211 a partir do PalaPellicone, em Roma, Itália. A mais prestigiada organização europeia de artes marciais mistas regressa à capital italiana com uma noite repleta de combates intensos na jaula amarela.</desc>
-    <category lang="pt">Artes marciais</category>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017183500 +0000" stop="20261017204500 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Direto)</title>
-    <desc lang="pt">Transmissão em direto do embate da Serie A entre a AS Roma e o Génova, a partir do Estádio Olímpico de Roma. Os giallorossi entram em campo perante o seu público apaixonado com o objetivo de conquistar três pontos preciosos na luta pelas posições europeias em Itália.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261017184000 +0000" stop="20261017204500 +0000">
-    <title lang="pt">ESTAC Troyes x RC Lens: Ligue 1 (Direto)</title>
-    <desc lang="pt">Transmissão em direto a partir do Stade de l'Aube para o encontro da Liga Francesa de futebol entre o ESTAC Troyes e o RC Lens. A formação da região de Champagne procura travar o futebol dinâmico e vertical dos Sang et Or num duelo importante para os objetivos de ambos os clubes.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017184000 +0000" stop="20261017204500 +0000">
-    <title lang="pt">Ligue 1: Lille OSC x Stade Brestois 29 (Direto)</title>
-    <desc lang="pt">Transmissão em direto do confronto da Ligue 1 francesa entre o Lille OSC e o Stade Brestois 29, disputado na Decathlon Arena - Stade Pierre-Mauroy. Os Dogues do norte de França recebem a aguerrida formação da Bretanha num duelo direto pelos lugares de acesso às provas europeias.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017185000 +0000" stop="20261017210000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 1 PT para transmissão desportiva de futebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261017185500 +0000" stop="20261017210000 +0000">
-    <title lang="pt">Rugby: Bath Rugby x Montpellier — Taça dos Campeões (Direto)</title>
-    <desc lang="pt">Transmissão em direto do encontro da Taça dos Campeões Europeus de râguebi entre os ingleses do Bath Rugby e os franceses do Montpellier Hérault Rugby, no histórico estádio The Rec. Um confronto anglo-francês de grande exigência física na elite do râguebi europeu.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Rugby</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017190000 +0000" stop="20261017193000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A entre o Bolonha e o Inter de Milão, disputado no Estádio Renato Dall'Ara, na Emília-Romanha. Confira os golos e os principais lances de perigo da visita dos nerazzurri a um dos terrenos mais exigentes do campeonato italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017190000 +0000" stop="20261017210000 +0000">
-    <title lang="pt">Liga Escocesa: Dundee FC x Rangers (Direto)</title>
-    <desc lang="pt">Transmissão em direto do encontro da Liga Escocesa entre o Dundee FC e o Rangers, a partir do histórico estádio de Dens Park, em Dundee. A formação protestante de Glasgow procura somar três pontos obrigatórios fora de portas para não perder terreno na luta pelo título escocês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017193000 +0000" stop="20261017195700 +0000">
-    <title lang="pt">Benfica 21 Horas</title>
-    <desc lang="pt">O principal espaço informativo de horário nobre da BTV, com o balanço completo do dia desportivo e institucional do Sport Lisboa e Benfica. Análise aprofundada, reportagens exclusivas no Estádio da Luz e declarações dos protagonistas do futebol e das modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017193000 +0000" stop="20261017200000 +0000">
-    <title lang="pt">Superbike World SBK: GP de Espanha — Resumo de Sábado (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado da jornada de sábado do Grande Prémio de Espanha de WorldSBK, disputado no Circuito de Jerez - Ángel Nieto. Recorde a luta pelos melhores lugares da grelha na Tissot Superpole e todas as emoções das primeiras corridas do fim de semana nas diversas classes.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017195700 +0000" stop="20261017214000 +0000">
-    <title lang="pt">Futsal: SL Benfica B x GD EB D. João I — III Divisão (Direto)</title>
-    <desc lang="pt">Transmissão em direto nos pavilhões da Luz do confronto entre a equipa B de futsal do SL Benfica e o GD Escola Básica D. João I, a contar para o Campeonato Nacional da III Divisão. Os jovens futsalistas encarnados procuram impor um ritmo intenso e somar mais uma vitória na prova.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-    <category lang="pt">Futsal</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017200000 +0000" stop="20261017210000 +0000">
-    <title lang="pt">Notícias Extra — Atualização Desportiva (Direto)</title>
-    <desc lang="pt">Emissão informativa especial em direto na Sport TV para acompanhamento das notícias de última hora no panorama desportivo. Ligações em direto aos estádios, reações rápidas dos protagonistas e síntese atualizada dos principais acontecimentos do futebol e das modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261017200000 +0000" stop="20261018000000 +0000">
-    <title lang="pt">Ténis: WTA 125 Lisboa Belém Open (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da ação do WTA 125 Lisboa Belém Open, disputado nos históricos campos de terra batida do CIF, na capital portuguesa. Reveja os melhores pontos e os duelos mais equilibrados desta importante paragem do circuito internacional feminino em Lisboa.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261017203000 +0000" stop="20261017210000 +0000">
-    <title lang="pt">Premier League Stories: John Stones (Documentário)</title>
-    <desc lang="pt">Documentário da série «Premier League Stories» centrado no percurso de mais de uma década de John Stones na elite do futebol inglês. Descubra como o internacional inglês conquistou múltiplos títulos no Manchester City sob o comando de Pep Guardiola e redefiniu o papel tático do defesa central moderno.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261017203500 +0000" stop="20261018074500 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
-    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 5 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017204500 +0000" stop="20261017224000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Serie A italiana entre o Bolonha e o Inter de Milão, realizada no Estádio Renato Dall'Ara. Reveja na íntegra o embate entre a organizada formação rossoblù e o poderoso emblema milanês na corrida pelo Scudetto.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261017204500 +0000" stop="20261017230000 +0000">
-    <title lang="pt">Washington Capitals x New Jersey Devils: NHL — Hóquei no Gelo (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da Capital One Arena, em Washington, para o duelo da Divisão Metropolitana da NHL entre os Washington Capitals e os New Jersey Devils. Intensidade física nas tabelas, transições relâmpago no gelo e o talento das estrelas da maior liga de hóquei do mundo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Hóquei</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261017204500 +0000" stop="20261018004500 +0000">
-    <title lang="pt">Golfe — Asian Tour: SJM Macao Open — Dia 3 (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da terceira jornada do SJM Macao Open, o chamado «Moving Day» desta etapa do Asian Tour em Macau. Com o quadro de finalistas definido, os principais candidatos ao troféu arriscam tudo junto ao mar para entrar na derradeira volta em posição de liderança.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Golfe</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017210000 +0000" stop="20261017230000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 1 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261017210000 +0000" stop="20261018010000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN4.pt@HD" start="20261017210000 +0000" stop="20261018133000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
-    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 4 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017210000 +0000" stop="20261017213000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017210000 +0000" stop="20261017225000 +0000">
-    <title lang="pt">EHF Champions League Feminina: Odense Håndbold x Győri Audi ETO KC (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido do grande embate da Liga dos Campeões de andebol feminino entre as dinamarquesas do Odense Håndbold e as húngaras do Győri Audi ETO KC. Duas potências absolutas do andebol europeu defrontam-se num espetáculo de altíssimo nível técnico e competitivo.</desc>
-    <category lang="pt">Andebol</category>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261017210000 +0000" stop="20261017230000 +0000">
-    <title lang="pt">Rugby: ASM Clermont Auvergne x Leinster — Taça dos Campeões (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido do grande clássico europeu da Taça dos Campeões de râguebi entre o ASM Clermont Auvergne e os irlandeses do Leinster Rugby. No fervoroso Stade Marcel-Michelin, em França, duas potências históricas do râguebi continental protagonizam um duelo físico de enorme intensidade.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Rugby</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017213000 +0000" stop="20261017220000 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A italiana entre a AS Roma e o Génova, disputado no Estádio Olímpico de Roma. Confira todos os golos, oportunidades flagrantes e os momentos-chave do duelo entre o emblema giallorosso da capital e o histórico clube da Ligúria.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261017213000 +0000" stop="20261018013000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017214000 +0000" stop="20261017231100 +0000">
-    <title lang="pt">Sporting CP x SL Benfica: Taça Jesus Correia — Hóquei em Patins</title>
-    <desc lang="pt">Reposição do emocionante dérbi eterno entre Sporting CP e SL Benfica, a contar para a Taça Jesus Correia de hóquei em patins. Dois dos maiores colossos mundiais da modalidade medem forças num encontro de altíssima velocidade, técnica apurada de stick e rivalidade histórica em rinque.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Hóquei</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017220000 +0000" stop="20261017223000 +0000">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-    <desc lang="pt">Jornal desportivo atualizado em direto na Sport TV+ com a síntese das principais notícias que marcam a atualidade nacional e internacional. Resultados de última hora, declarações dos protagonistas, preparação dos grandes jogos e acompanhamento de todas as modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017223000 +0000" stop="20261017230000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A entre o Bolonha e o Inter de Milão, disputado no Estádio Renato Dall'Ara, na Emília-Romanha. Confira os golos e os principais lances de perigo da visita dos nerazzurri a um dos terrenos mais exigentes do campeonato italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017224000 +0000" stop="20261017231000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017225000 +0000" stop="20261017230000 +0000">
-    <title lang="pt">Motociclismo: Enduro das Nações 2026 — Resumo do Dia (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado com os melhores momentos da jornada no Enduro das Nações 2026, em Grândola, Portugal. Acompanhe a prestação da seleção portuguesa e das principais potências mundiais nas especiais cronometradas, com imagens espetaculares e tabelas classificativas atualizadas.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017230000 +0000" stop="20261017233000 +0000">
-    <title lang="pt">Premier League Stories: Granit Xhaka (Documentário)</title>
-    <desc lang="pt">Episódio documental da série «Premier League Stories» dedicado ao médio internacional suíço Granit Xhaka. Descubra como a resiliência, a liderança em campo e a capacidade de superação nos momentos difíceis no Arsenal e no futebol inglês transformaram o seu percurso num verdadeiro legado.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017230000 +0000" stop="20261017233000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261017230000 +0000" stop="20261018005500 +0000">
-    <title lang="pt">Superliga Turca: Fenerbahçe x Alanyaspor (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido do duelo da Superliga Turca entre o Fenerbahçe e o Alanyaspor, disputado no vibrante Estádio Şükrü Saracoğlu, em Istambul. O histórico emblema de Kadıköy procura impor o seu favoritismo perante o conjunto de Alanya na luta acesa pelo título nacional turco.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017230000 +0000" stop="20261017231000 +0000">
-    <title lang="pt">Desporto Automóvel Nacional: Baja Portalegre 500 — Resumo do Dia (Magazine)</title>
-    <desc lang="pt">Magazine com o resumo diário da Baja Portalegre 500 no Alto Alentejo. Acompanhe as classificações atualizadas, as imagens mais espetaculares da passagem das máquinas pelos troços alentejanos e as reações dos pilotos no final de mais uma dura jornada de todo-o-terreno.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261017230000 +0000" stop="20261018030000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017231000 +0000" stop="20261017234000 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A italiana entre a AS Roma e o Génova, disputado no Estádio Olímpico de Roma. Confira todos os golos, oportunidades flagrantes e os momentos-chave do duelo entre o emblema giallorosso da capital e o histórico clube da Ligúria.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017231000 +0000" stop="20261017233000 +0000">
-    <title lang="pt">AutoGear (Magazine)</title>
-    <desc lang="pt">Magazine especializado no setor automóvel que apresenta as mais recentes novidades da indústria, ensaios dinâmicos de estrada e comparativos detalhados. O programa aborda ainda os grandes desafios da transição energética, mobilidade sustentável e segurança rodoviária.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017231100 +0000" stop="20261017233700 +0000">
-    <title lang="pt">Benfica 24 Horas</title>
-    <desc lang="pt">Bloco noticioso de encerramento do dia na BTV, que reúne os acontecimentos mais relevantes das últimas 24 horas no universo do Sport Lisboa e Benfica. Uma síntese alargada com os resultados, reações e notícias que marcam a vida do clube encarnado.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261017233000 +0000" stop="20261018013000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 1 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261017233000 +0000" stop="20261018000000 +0000">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-    <desc lang="pt">Jornal desportivo atualizado em direto na Sport TV+ com a síntese das principais notícias que marcam a atualidade nacional e internacional. Resultados de última hora, declarações dos protagonistas, preparação dos grandes jogos e acompanhamento de todas as modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261017233000 +0000" stop="20261018021500 +0000">
-    <title lang="pt">NASCAR O'Reilly Parts Series: Timberland Pro 200 — Phoenix Raceway (Direto)</title>
-    <desc lang="pt">Transmissão em direto da corrida Timberland Pro 200 da NASCAR O'Reilly Parts Series, diretamente do Phoenix Raceway, no Arizona. Jovens talentos em ascensão e pilotos experientes enfrentam o técnico oval de uma milha numa prova repleta de ultrapassagens e adrenalina.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261017233700 +0000" stop="20261018013300 +0000">
-    <title lang="pt">Basquetebol: SL Benfica x UD Oliveirense — Liga Betclic (Diferido)</title>
-    <desc lang="pt">Reposição do confronto da Liga Portuguesa de Basquetebol entre o SL Benfica e a UD Oliveirense, realizado no Pavilhão Fidelidade. Recorde os triplos, os afundanços e as decisões táticas de um dos embates mais aguardados da fase regular do campeonato nacional.</desc>
-    <category lang="pt">Basquetebol</category>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261017234000 +0000" stop="20261018000000 +0000">
-    <title lang="pt">Vamos à Bola: Gil Vicente FC — Barcelos (Magazine)</title>
-    <desc lang="pt">Reportagem especial do programa «Vamos à Bola» dedicada ao Gil Vicente Futebol Clube e à cidade de Barcelos. O repórter Rui Simões dá a conhecer as tradições minhotas, os bastidores do clube gilista e o fervor dos adeptos barcelenses fora das quatro linhas na Liga Portugal.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="DAZN3.pt@HD" start="20261018000000 +0000" stop="20261018090000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
-    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 3 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018000000 +0000" stop="20261018020000 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Serie A entre a AS Roma e o Génova, realizada no Estádio Olímpico de Roma. Perante o fervor dos seus adeptos na capital italiana, a formação romana defronta o mais antigo clube em atividade no futebol transalpino.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018000000 +0000" stop="20261018030000 +0000">
-    <title lang="pt">MMA: UFC Fight Night Edmonton — Buckley x Malott (Direto)</title>
-    <desc lang="pt">Transmissão em direto do evento UFC Fight Night a partir do Rogers Place, em Edmonton, no Canadá, encabeçado pelo duelo de pesos-meio-médios entre Joaquin Buckley e o anfitrião canadiano Mike Malott. Uma noite de combates explosivos no octógono mais famoso do mundo.</desc>
-    <category lang="pt">Artes marciais</category>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018000000 +0000" stop="20261018040000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018004500 +0000" stop="20261018031500 +0000">
-    <title lang="pt">Golfe — LPGA Tour: Buick LPGA Shanghai — Dia 3 (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da terceira volta do Buick LPGA Shanghai, etapa chinesa da digressão asiática do LPGA Tour. Na penúltima jornada em Xangai, a pressão aumenta sobre as líderes da classificação geral num percurso técnico onde cada birdie pode ser determinante.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Golfe</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018005500 +0000" stop="20261018025500 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Ligue 1 francesa entre o RC Estrasburgo e o Paris Saint-Germain, disputada em Estrasburgo. Reveja na íntegra a deslocação do conjunto parisiense ao terreno alsaciano a contar para o campeonato gaulês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018010000 +0000" stop="20261018013000 +0000">
-    <title lang="pt">Premier League Stories: Roberto Mancini</title>
-    <desc lang="pt">Episódio documental da série 'Premier League Stories' centrado na figura carismática do treinador italiano Roberto Mancini. Através de uma entrevista intimista e imagens de arquivo, recorde como o técnico transformou o Manchester City num colosso vencedor e conquistou o histórico título inglês de 2012 no último segundo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018013000 +0000" stop="20261018020000 +0000">
-    <title lang="pt">FreeTour LaLiga 2026/27 (Magazine)</title>
-    <desc lang="pt">Magazine especial que percorre a geografia, a cultura e a paixão em redor dos clubes da LaLiga espanhola na temporada 2026/2027. Uma viagem pelas cidades, estádios históricos e tradições locais que dão vida a um dos campeonatos de futebol mais espetaculares e carismáticos do planeta.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018013000 +0000" stop="20261018033000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261018013000 +0000" stop="20261018050000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018013300 +0000" stop="20261018020000 +0000">
-    <title lang="pt">Benfica Fan Zone</title>
-    <desc lang="pt">Programa da BTV que mergulha no ambiente vivido pelos sócios e adeptos do Sport Lisboa e Benfica antes e durante os grandes jogos. Um espaço de convívio, histórias de bancada e partilha da mística benfiquista em redor do Estádio da Luz e dos pavilhões.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018020000 +0000" stop="20261018023800 +0000">
-    <title lang="pt">O Outro Lado — Bastidores e Histórias do Desporto (Magazine)</title>
-    <desc lang="pt">Programa de entrevistas e reportagens que revela a faceta humana e pessoal dos atletas e treinadores para lá da alta competição. Uma viagem descontraída pelas rotinas, paixões e histórias de vida de quem brilha nos grandes palcos desportivos.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018020000 +0000" stop="20261018060000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 1 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018020000 +0000" stop="20261018040000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Ligue 1 francesa entre o RC Estrasburgo e o Paris Saint-Germain, disputada em Estrasburgo. Reveja na íntegra a deslocação do conjunto parisiense ao terreno alsaciano a contar para o campeonato gaulês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018021500 +0000" stop="20261018070000 +0000">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 4. A programação desportiva regressa no próximo horário agendado.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Eventos desportivos</category>
-    <category lang="pt">Eventos especiais</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018023800 +0000" stop="20261018030700 +0000">
-    <title lang="pt">Corporate Club</title>
-    <desc lang="pt">Magazine da BTV focado na rede empresarial e nas parcerias estratégicas do Sport Lisboa e Benfica. O programa dá a conhecer as empresas associadas ao Corporate Club no Estádio da Luz, explorando sinergias comerciais, networking e oportunidades de investimento ligadas à marca Benfica.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018025500 +0000" stop="20261018050000 +0000">
-    <title lang="pt">Voleibol: Sporting CP x SL Benfica — Supertaça (Diferido)</title>
-    <desc lang="pt">Reposição do emocionante dérbi entre Sporting CP e SL Benfica referente à Supertaça de voleibol. Reveja os pontos mais espetaculares, os serviços diretos e a intensa disputa set a set entre os dois eternos rivais lisboetas na luta pelo troféu inaugural da temporada.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Voleibol</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018030000 +0000" stop="20261018045600 +0000">
-    <title lang="pt">Superliga Turca: Gençlerbirliği x Galatasaray — 1.ª Parte (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da primeira parte do embate da Superliga Turca entre o Gençlerbirliği, de Ancara, e o histórico Galatasaray. O emblema de Istambul procura assumir o controlo das operações desde o apito inicial perante um adversário determinado a surpreender no seu reduto.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261018030000 +0000" stop="20261018050000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018030700 +0000" stop="20261018043400 +0000">
-    <title lang="pt">Futsal Feminino: SL Benfica x Santa Luzia FC — Campeonato Nacional (Diferido)</title>
-    <desc lang="pt">Reposição da partida do Campeonato Nacional de Futsal Feminino entre o SL Benfica e o Santa Luzia FC, disputada nos pavilhões da Luz. Reveja os golos e as melhores combinações ofensivas deste duelo entre as hexacampeãs encarnadas e a formação minhota de Viana do Castelo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-    <category lang="pt">Futsal</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018031500 +0000" stop="20261018055000 +0000">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 3. A programação desportiva regressa no próximo horário agendado.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Eventos desportivos</category>
-    <category lang="pt">Eventos especiais</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018033000 +0000" stop="20261018040000 +0000">
-    <title lang="pt">Premier League Stories: Michael Carrick (Documentário)</title>
-    <desc lang="pt">Documentário da série «Premier League Stories» que retrata a brilhante carreira de Michael Carrick no futebol inglês. Da elegância e visão de jogo que lhe valeram múltiplos troféus como médio do Manchester United até à sua transição para o comando técnico nos bancos britânicos.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018040000 +0000" stop="20261018075500 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018040000 +0000" stop="20261018045600 +0000">
-    <title lang="pt">ONE Championship: ONE Friday Fights (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado da gala ONE Friday Fights da ONE Championship, realizada no icónico Estádio Lumpinee, em Banguecoque. Reveja os combates mais eletrizantes da noite, os knockouts devastadores de Muay Thai e Kickboxing e as melhores finalizações de artes marciais mistas.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018040000 +0000" stop="20261018050000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018043400 +0000" stop="20261018060400 +0000">
-    <title lang="pt">Sporting CP x SL Benfica: Taça Jesus Correia — Hóquei em Patins</title>
-    <desc lang="pt">Reposição do emocionante dérbi eterno entre Sporting CP e SL Benfica, a contar para a Taça Jesus Correia de hóquei em patins. Dois dos maiores colossos mundiais da modalidade medem forças num encontro de altíssima velocidade, técnica apurada de stick e rivalidade histórica em rinque.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Hóquei</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018045600 +0000" stop="20261018050000 +0000">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV+. A programação desportiva regressa no próximo horário agendado.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018045600 +0000" stop="20261018050000 +0000">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Período sem emissão ativa na grelha da Sport TV 1. A programação desportiva regressa no próximo horário agendado.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018050000 +0000" stop="20261018053000 +0000">
-    <title lang="pt">Ténis: ATP This Week (Magazine)</title>
-    <desc lang="pt">Magazine oficial semanal do circuito profissional masculino de ténis. O programa apresenta os resumos dos torneios mais recentes da temporada, a atualização das contas do ranking ATP e da corrida para as Finals, além de reportagens de bastidores e entrevistas com as estrelas do court.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018050000 +0000" stop="20261018065500 +0000">
-    <title lang="pt">ESTAC Troyes x RC Lens: Ligue 1 (Diferido)</title>
-    <desc lang="pt">Reposição da partida da Liga Francesa entre o ESTAC Troyes e o RC Lens, realizada no Stade de l'Aube. Reveja os golos, os duelos a meio-campo e os momentos de destaque deste confronto do escalão principal do futebol gaulês entre o conjunto de Troyes e o emblema do norte de França.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018050000 +0000" stop="20261018070500 +0000">
-    <title lang="pt">Premier Padel 2026: Melhor Jogo do Dia (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido do encontro mais espetacular da jornada no circuito mundial Premier Padel 2026. Reveja um duelo repleto de pontos acrobáticos, defesas nas paredes de vidro e máxima intensidade competitiva entre as maiores figuras do padel profissional.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Padel</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018050000 +0000" stop="20261018090000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261018050000 +0000" stop="20261018083000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261018050000 +0000" stop="20261018070000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018053000 +0000" stop="20261018060000 +0000">
-    <title lang="pt">Superbike World SBK: GP de Espanha — Resumo de Sábado (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado da jornada de sábado do Grande Prémio de Espanha de WorldSBK, disputado no Circuito de Jerez - Ángel Nieto. Recorde a luta pelos melhores lugares da grelha na Tissot Superpole e todas as emoções das primeiras corridas do fim de semana nas diversas classes.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018055000 +0000" stop="20261018060000 +0000">
-    <title lang="pt">Golfe — Circuito FPG: Final Nacional Drive Challenge (Magazine)</title>
-    <desc lang="pt">Magazine especial sobre a Final Nacional do Circuito Drive Challenge, competição organizada pela Federação Portuguesa de Golfe dedicada aos jovens talentos. Reveja as melhores pancadas, o espírito desportivo e a evolução técnica da nova geração do golfe português em competição.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018060000 +0000" stop="20261018063000 +0000">
-    <title lang="pt">Premier League Stories: Roberto Mancini</title>
-    <desc lang="pt">Episódio documental da série 'Premier League Stories' centrado na figura carismática do treinador italiano Roberto Mancini. Através de uma entrevista intimista e imagens de arquivo, recorde como o técnico transformou o Manchester City num colosso vencedor e conquistou o histórico título inglês de 2012 no último segundo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018060000 +0000" stop="20261018063000 +0000">
-    <title lang="pt">AutoGear (Magazine)</title>
-    <desc lang="pt">Magazine especializado no setor automóvel que apresenta as mais recentes novidades da indústria, ensaios dinâmicos de estrada e comparativos detalhados. O programa aborda ainda os grandes desafios da transição energética, mobilidade sustentável e segurança rodoviária.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018060000 +0000" stop="20261018100000 +0000">
-    <title lang="pt">Golfe: DP World India Championship — Dia 4 (Direto)</title>
-    <desc lang="pt">Transmissão em direto do quarto e último dia do DP World India Championship, prova do circuito DP World Tour. Siga tacada a tacada todas as emoções da volta decisiva de domingo, onde a precisão nos últimos buracos define o grande campeão do torneio e soma pontos para a Race to Dubai.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Golfe</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018060400 +0000" stop="20261018061300 +0000">
-    <title lang="pt">5 Dias na TV</title>
-    <desc lang="pt">Magazine informativo de fim de semana da BTV que passa em revista os acontecimentos mais marcantes dos cinco dias úteis de emissão. Uma retrospetiva completa sobre a atualidade do Sport Lisboa e Benfica, do futebol profissional às modalidades de pavilhão e vida institucional do clube.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018061300 +0000" stop="20261018064200 +0000">
-    <title lang="pt">Benfica Escolas de Futebol (Magazine)</title>
-    <desc lang="pt">Magazine da BTV dedicado à rede de Escolas de Futebol do Sport Lisboa e Benfica espalhadas pelo país e pelo mundo. Conheça a metodologia de treino benfiquista, o trabalho pedagógico dos treinadores e a alegria dos jovens atletas que dão os primeiros passos de águia ao peito.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018063000 +0000" stop="20261018090000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 1 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018063000 +0000" stop="20261018070000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A entre o Bolonha e o Inter de Milão, disputado no Estádio Renato Dall'Ara, na Emília-Romanha. Confira os golos e os principais lances de perigo da visita dos nerazzurri a um dos terrenos mais exigentes do campeonato italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018064200 +0000" stop="20261018082800 +0000">
-    <title lang="pt">Futebol Sub-19: SL Benfica x Sporting CP — Campeonato Nacional de Juniores (Diferido)</title>
-    <desc lang="pt">Reposição do clássico de formação entre SL Benfica e Sporting CP, a contar para o Campeonato Nacional de Juniores Sub-19 no Seixal. Reveja os golos, os duelos individuais e os pormenores técnicos das principais pérolas das academias encarnada e leonina neste dérbi de sub-19.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018065500 +0000" stop="20261018072500 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A entre o Bolonha e o Inter de Milão, disputado no Estádio Renato Dall'Ara, na Emília-Romanha. Confira os golos e os principais lances de perigo da visita dos nerazzurri a um dos terrenos mais exigentes do campeonato italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018070000 +0000" stop="20261018090000 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Serie A entre a AS Roma e o Génova, realizada no Estádio Olímpico de Roma. Perante o fervor dos seus adeptos na capital italiana, a formação romana defronta o mais antigo clube em atividade no futebol transalpino.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018070000 +0000" stop="20261018072000 +0000">
-    <title lang="pt">Motorcycle Sports — Magazine de Motociclismo</title>
-    <desc lang="pt">Magazine dedicado aos apaixonados pelo motociclismo de competição e pelo universo das duas rodas. O programa analisa as provas dos campeonatos mundiais e nacionais de velocidade e todo-o-terreno, apresentando ainda ensaios técnicos, novidades das marcas e entrevistas com pilotos.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261018070000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Surf: World Surf League — MEO Rip Curl Pro Portugal (Direto)</title>
-    <desc lang="pt">Transmissão em direto da icónica Praia de Supertubos, em Peniche, palco do MEO Rip Curl Pro Portugal do circuito mundial da World Surf League (WSL). Os melhores surfistas masculinos e femininos do planeta enfrentam os famosos tubos pesados da costa oeste portuguesa na luta pelo título mundial.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos aquáticos</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018070500 +0000" stop="20261018080000 +0000">
-    <title lang="pt">Ténis: ATP 500 Pequim — Resumo (Magazine)</title>
-    <desc lang="pt">Magazine com o balanço completo do ATP 500 de Pequim, disputado no Centro Nacional de Ténis da capital chinesa. Reveja as melhores jogadas, os confrontos decisivos em piso rápido e o percurso do vencedor de um dos torneios mais emblemáticos da digressão asiática.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018072000 +0000" stop="20261018090000 +0000">
-    <title lang="pt">Motociclismo: Enduro das Nações 2026 — Prova Final de Cross em Grândola (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da Prova Final de Cross do Enduro das Nações 2026, realizada em Grândola, no litoral alentejano. Reveja as mangas finais de motocross que fecharam com chave de ouro os Seis Dias Internacionais de Enduro em território português.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018072500 +0000" stop="20261018075500 +0000">
-    <title lang="pt">Ligue 1 Show — Magazine do Futebol Francês</title>
-    <desc lang="pt">Magazine semanal dedicado às histórias, entrevistas exclusivas e momentos marcantes da Ligue 1 francesa. Conheça de perto os craques, os treinadores e os clubes que dão brilho ao campeonato gaulês, combinando análise desportiva com reportagens especiais de bastidores.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261018074500 +0000" stop="20261018090000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Desporto Motorizado)</title>
-    <desc lang="pt">Espaço de programação desportiva (desporto motorizado) na grelha da DAZN 5 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018075500 +0000" stop="20261018081000 +0000">
-    <title lang="pt">Bundesliga Clubs: RB Leipzig (Magazine)</title>
-    <desc lang="pt">Programa da série 'Bundesliga Clubs' dedicado à meteórica ascensão do RB Leipzig no futebol germânico. Uma análise ao modelo desportivo assente no recrutamento de jovens talentos, no futebol de pressão alta e nas conquistas da Taça da Alemanha que afirmaram o clube na elite europeia.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018075500 +0000" stop="20261018082500 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A italiana entre a AS Roma e o Génova, disputado no Estádio Olímpico de Roma. Confira todos os golos, oportunidades flagrantes e os momentos-chave do duelo entre o emblema giallorosso da capital e o histórico clube da Ligúria.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018080000 +0000" stop="20261018100000 +0000">
-    <title lang="pt">Rugby: ASM Clermont Auvergne x Leinster — Taça dos Campeões (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido do grande clássico europeu da Taça dos Campeões de râguebi entre o ASM Clermont Auvergne e os irlandeses do Leinster Rugby. No fervoroso Stade Marcel-Michelin, em França, duas potências históricas do râguebi continental protagonizam um duelo físico de enorme intensidade.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Rugby</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018081000 +0000" stop="20261018083000 +0000">
-    <title lang="pt">UEFA Champions League: Real Betis x FC Porto</title>
-    <desc lang="pt">Grande duelo ibérico na UEFA Champions League entre os espanhóis do Real Betis e o Futebol Clube do Porto, disputado no Estádio Benito Villamarín, em Sevilha. Os dragões enfrentam o talento da formação andaluza numa noite europeia de máxima exigência competitiva.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018082500 +0000" stop="20261018102500 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Ligue 1 francesa entre o RC Estrasburgo e o Paris Saint-Germain, disputada em Estrasburgo. Reveja na íntegra a deslocação do conjunto parisiense ao terreno alsaciano a contar para o campeonato gaulês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018082800 +0000" stop="20261018085900 +0000">
-    <title lang="pt">A Carrinha do Bento</title>
-    <desc lang="pt">Ao volante da mítica carrinha que transportava o histórico 'grupo do Barreiro', o antigo internacional Carlos Manuel percorre o país em busca das melhores memórias do Sport Lisboa e Benfica. Um magazine documental repleto de conversas emotivas com antigos protagonistas e adeptos encarnados.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018083000 +0000" stop="20261018103000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261018083000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Ténis: ATP Masters 1000 Xangai — Final (Direto)</title>
-    <desc lang="pt">Transmissão em direto da grande final do ATP Masters 1000 de Xangai, disputada no piso rápido da Qizhong Forest Sports City Arena, na China. Os dois melhores tenistas da quinzena asiática defrontam-se pelo prestigiado troféu e por mil pontos cruciais no ranking mundial ATP.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018085900 +0000" stop="20261018092000 +0000">
-    <title lang="pt">Benfica 10 Horas</title>
-    <desc lang="pt">Primeiro grande bloco informativo diário da BTV, com todas as notícias da manhã sobre o universo do Sport Lisboa e Benfica. Acompanhe a preparação das equipas no Benfica Campus, a agenda competitiva das modalidades e os destaques da imprensa desportiva.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018090000 +0000" stop="20261018093000 +0000">
-    <title lang="pt">FreeTour LaLiga 2026/27 (Magazine)</title>
-    <desc lang="pt">Magazine especial que percorre a geografia, a cultura e a paixão em redor dos clubes da LaLiga espanhola na temporada 2026/2027. Uma viagem pelas cidades, estádios históricos e tradições locais que dão vida a um dos campeonatos de futebol mais espetaculares e carismáticos do planeta.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN3.pt@HD" start="20261018090000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol americano)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol americano) na grelha da DAZN 3 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261018090000 +0000" stop="20261018130000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Desporto Motorizado em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 5 PT para transmissão desportiva de desporto motorizado em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018090000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Diferido)</title>
-    <desc lang="pt">Transmissão em diferido da partida da Ligue 1 francesa entre o RC Estrasburgo e o Paris Saint-Germain, disputada em Estrasburgo. Reveja na íntegra a deslocação do conjunto parisiense ao terreno alsaciano a contar para o campeonato gaulês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018090000 +0000" stop="20261018100000 +0000">
-    <title lang="pt">Superbike World SBK: GP de Espanha — Tissot Superpole (Direto)</title>
-    <desc lang="pt">Transmissão em direto da sessão Tissot Superpole do Grande Prémio de Espanha do Mundial de Superbike, em Jerez. Com pneus macios de qualificação e apenas quinze minutos no relógio, os pilotos da classe rainha arriscam tudo na procura da volta perfeita que garante a pole position na grelha.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018090000 +0000" stop="20261018093000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018092000 +0000" stop="20261018095800 +0000">
-    <title lang="pt">O Outro Lado — Bastidores e Histórias do Desporto (Magazine)</title>
-    <desc lang="pt">Programa de entrevistas e reportagens que revela a faceta humana e pessoal dos atletas e treinadores para lá da alta competição. Uma viagem descontraída pelas rotinas, paixões e histórias de vida de quem brilha nos grandes palcos desportivos.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018093000 +0000" stop="20261018102500 +0000">
-    <title lang="pt">UEFA Champions League: Resumo da Jornada 2 (Magazine)</title>
-    <desc lang="pt">Programa oficial de resumos da 2.ª jornada da fase de liga da UEFA Champions League 2026/27. Reveja todos os golos, as grandes defesas, as estreias marcantes e a atualização da tabela classificativa única após mais uma semana de noites mágicas nos principais estádios da Europa.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018093000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Ténis de Mesa: Campeonato da Europa Individual 2026 — Meias-Finais Femininas (Direto)</title>
-    <desc lang="pt">Transmissão em direto das Meias-Finais de Singulares Femininos do Campeonato da Europa Individual de Ténis de Mesa de 2026. A elite do ténis de mesa europeu feminino mede forças em encontros de grande intensidade emocional na luta pelo apuramento para o jogo do título.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis de mesa</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018095800 +0000" stop="20261018120600 +0000">
-    <title lang="pt">Futebol Feminino: CS Marítimo x SL Benfica — Campeonato Nacional (Direto)</title>
-    <desc lang="pt">Transmissão em direto do encontro da Liga BPI de futebol feminino entre o CS Marítimo e o SL Benfica, a partir do Funchal, na Madeira. As campeãs nacionais entram em campo determinadas em conquistar os três pontos perante a combativa formação insular.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018100000 +0000" stop="20261018120000 +0000">
-    <title lang="pt">Ténis: WTA 125 Lisboa Belém Open — Final (Direto)</title>
-    <desc lang="pt">Transmissão em direto do Court Central do Club Internacional de Foot-Ball (CIF), em Lisboa, para a grande Final feminina do WTA 125 Belém Open. As duas melhores tenistas da semana enfrentam-se na terra batida do Restelo pela conquista do troféu e de pontos importantes para o ranking WTA.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018100000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Golfe: DP World India Championship — Dia 4 (Direto)</title>
-    <desc lang="pt">Transmissão em direto do quarto e último dia do DP World India Championship, prova do circuito DP World Tour. Siga tacada a tacada todas as emoções da volta decisiva de domingo, onde a precisão nos últimos buracos define o grande campeão do torneio e soma pontos para a Race to Dubai.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Golfe</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018100000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Mundial Feminino de Velocidade (WorldWCR): GP de Espanha — Corrida 2 (Direto)</title>
-    <desc lang="pt">Transmissão em direto da Corrida 2 do Mundial Feminino de Velocidade (WorldWCR) no Circuito de Jerez - Ángel Nieto, em Espanha. As melhores pilotos de velocidade do mundo voltam à pista andaluza para a derradeira manga do fim de semana, num campeonato marcado pela competitividade ao milésimo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018102500 +0000" stop="20261018124500 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Basquetebol em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 1 PT para transmissão desportiva de basquetebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018102500 +0000" stop="20261018123000 +0000">
-    <title lang="pt">Udinese x US Lecce: Serie A (Direto)</title>
-    <desc lang="pt">Transmissão em direto de Udine para o embate da Serie A italiana entre a Udinese e o US Lecce, disputado no Bluenergy Stadium. O conjunto friulano aposta na sua pujança física e jogo direto perante a formação do sul de Itália, num duelo importante para a estabilidade classificativa no Calcio.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018103000 +0000" stop="20261018110000 +0000">
-    <title lang="pt">Premier League Stories: Petr Čech (Documentário)</title>
-    <desc lang="pt">Documentário da série «Premier League Stories» dedicado a Petr Čech, um dos maiores guarda-redes da história da liga inglesa. Recorde a grave lesão craniana sofrida em 2006, a sua corajosa recuperação com o icónico capacete e os inúmeros recordes e títulos conquistados em Londres.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018110000 +0000" stop="20261018125000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol)</title>
-    <desc lang="pt">Espaço de programação desportiva (futebol) na grelha da DAZN 2 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN3.pt@HD" start="20261018110000 +0000" stop="20261018113000 +0000">
-    <title lang="pt">Ténis WTA: WTA 1000 de Pequim — Resumo do Torneio (Magazine)</title>
-    <desc lang="pt">Revista completa do WTA 1000 de Pequim (China Open), um dos torneios mais prestigiados e decisivos da digressão asiática de piso rápido. Reveja o caminho até ao título no Centro Nacional de Ténis da capital chinesa, com os melhores pontos e as surpresas da competição.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018110000 +0000" stop="20261018113000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A entre o Bolonha e o Inter de Milão, disputado no Estádio Renato Dall'Ara, na Emília-Romanha. Confira os golos e os principais lances de perigo da visita dos nerazzurri a um dos terrenos mais exigentes do campeonato italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018110000 +0000" stop="20261018120000 +0000">
-    <title lang="pt">Hipismo: Taça do Mundo de Saltos FEI — Etapa de Oslo (Magazine)</title>
-    <desc lang="pt">Magazine com o resumo da etapa inaugural da Liga da Europa Ocidental da Taça do Mundo de Saltos FEI 2026/27, realizada em Oslo, na Noruega. Acompanhe as prestações dos melhores conjuntos internacionais nos percursos indoor e os desempates ao cronómetro.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018110000 +0000" stop="20261018120000 +0000">
-    <title lang="pt">Mundial de Sportbike (WorldSPB): GP de Espanha — Corrida 2 (Direto)</title>
-    <desc lang="pt">Transmissão em direto da Corrida 2 do Mundial de Sportbike (WorldSPB) integrada no Grande Prémio de Espanha, em Jerez de la Frontera. Com diferenças mínimas entre máquinas e vácuos constantes nas retas, os jovens pilotos protagonizam dezenas de ultrapassagens na disputa pela vitória.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018110000 +0000" stop="20261018123000 +0000">
-    <title lang="pt">Ténis de Mesa: Campeonato da Europa Individual 2026 — Meias-Finais Masculinas (Direto)</title>
-    <desc lang="pt">Transmissão em direto das Meias-Finais de Singulares Masculinos do Campeonato da Europa Individual de Ténis de Mesa de 2026. Com uma medalha já garantida, os quatro melhores jogadores do torneio elevam o nível em trocas de bola espetaculares por um lugar na grande final.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis de mesa</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261018110000 +0000" stop="20261018115500 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV7.pt@HD" start="20261018110000 +0000" stop="20261018150000 +0000">
-    <title lang="pt">Surf: World Surf League — MEO Rip Curl Pro Portugal (Direto)</title>
-    <desc lang="pt">Transmissão em direto da icónica Praia de Supertubos, em Peniche, palco do MEO Rip Curl Pro Portugal do circuito mundial da World Surf League (WSL). Os melhores surfistas masculinos e femininos do planeta enfrentam os famosos tubos pesados da costa oeste portuguesa na luta pelo título mundial.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos aquáticos</category>
-  </programme>
-  <programme channel="DAZN3.pt@HD" start="20261018113000 +0000" stop="20261018115000 +0000">
-    <title lang="pt">FreeTour LaLiga 2026/27 (Magazine)</title>
-    <desc lang="pt">Magazine especial que percorre a geografia, a cultura e a paixão em redor dos clubes da LaLiga espanhola na temporada 2026/2027. Uma viagem pelas cidades, estádios históricos e tradições locais que dão vida a um dos campeonatos de futebol mais espetaculares e carismáticos do planeta.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018113000 +0000" stop="20261018120000 +0000">
-    <title lang="pt">Notícias BTV — Atualidade do SL Benfica</title>
-    <desc lang="pt">Bloco informativo diário da BTV com todas as notícias atualizadas sobre o universo do Sport Lisboa e Benfica. Acompanhe os treinos do futebol profissional no Benfica Campus, a preparação das modalidades de pavilhão e as principais novidades institucionais do clube da Luz.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="DAZN3.pt@HD" start="20261018115000 +0000" stop="20261018162000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 3 PT para transmissão desportiva de futebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261018115500 +0000" stop="20261018135500 +0000">
-    <title lang="pt">Section Paloise x Leicester Tigers: Râguebi — Taça dos Campeões (Direto)</title>
-    <desc lang="pt">Transmissão em direto a partir do Stade du Hameau, em Pau, para o embate da Taça dos Campeões de râguebi entre a Section Paloise e os ingleses do Leicester Tigers. O conjunto francês do Top 14 enfrenta um antigo bicampeão europeu num duelo intenso de pacotes de avançados.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-    <category lang="pt">Rugby</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018120000 +0000" stop="20261018123000 +0000">
-    <title lang="pt">Serie A: AS Roma x Génova (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A italiana entre a AS Roma e o Génova, disputado no Estádio Olímpico de Roma. Confira todos os golos, oportunidades flagrantes e os momentos-chave do duelo entre o emblema giallorosso da capital e o histórico clube da Ligúria.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018120000 +0000" stop="20261018122500 +0000">
-    <title lang="pt">Magazine Paralímpico — Desporto Adaptado</title>
-    <desc lang="pt">Magazine dedicado à atualidade do movimento paralímpico nacional e internacional e às diversas modalidades do desporto adaptado. Conheça as histórias de superação, os métodos de treino de alta competição e os grandes resultados conquistados pelos atletas paralímpicos.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018120000 +0000" stop="20261018140000 +0000">
-    <title lang="pt">Ténis: ATP Challenger 100 Maia Open — Final (Direto)</title>
-    <desc lang="pt">Transmissão em direto do Court Central do Complexo Municipal de Ténis da Maia para a grande Final do Maia Open, prova de categoria ATP Challenger 100. Os dois melhores jogadores da semana medem forças em terra batida indoor na disputa pelo prestigiado troféu maiato e por 100 pontos no ranking mundial.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Ténis</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018120000 +0000" stop="20261018133000 +0000">
-    <title lang="pt">Mundial de Supersport (WorldSSP): GP de Espanha — Corrida 2 (Direto)</title>
-    <desc lang="pt">Transmissão em direto da Corrida 2 do Mundial de Supersport (WorldSSP) a partir do Circuito de Jerez - Ángel Nieto, em Espanha. Segunda oportunidade do fim de semana para as estrelas das motos de média cilindrada brilharem na Andaluzia e somarem pontos vitais para o campeonato.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018120600 +0000" stop="20261018135800 +0000">
-    <title lang="pt">Basquetebol Feminino: CAB Madeira x SL Benfica — Campeonato Nacional</title>
-    <desc lang="pt">Transmissão do encontro do Campeonato Nacional da Liga Betclic Feminina de basquetebol entre o CAB Madeira e o SL Benfica, disputado no Pavilhão do CAB, no Funchal. As águias enfrentam uma deslocação tradicionalmente exigente ao arquipélago madeirense.</desc>
-    <category lang="pt">Basquetebol</category>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos de equipa</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018122500 +0000" stop="20261018125500 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018123000 +0000" stop="20261018130000 +0000">
-    <title lang="pt">Ligue 1: Estrasburgo x Paris Saint-Germain (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do duelo da Ligue 1 entre o RC Estrasburgo e o Paris Saint-Germain, realizado no Stade de la Meinau. Confira todos os golos, defesas e jogadas de talento individual deste embate do principal escalão do futebol francês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018123000 +0000" stop="20261018125500 +0000">
-    <title lang="pt">Vamos à Bola: Gil Vicente FC — Barcelos (Magazine)</title>
-    <desc lang="pt">Reportagem especial do programa «Vamos à Bola» dedicada ao Gil Vicente Futebol Clube e à cidade de Barcelos. O repórter Rui Simões dá a conhecer as tradições minhotas, os bastidores do clube gilista e o fervor dos adeptos barcelenses fora das quatro linhas na Liga Portugal.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018123000 +0000" stop="20261018130000 +0000">
-    <title lang="pt">Fora de Horas — Pausa na Emissão</title>
-    <desc lang="pt">Período de pausa técnica e interrupção temporária na emissão regular do canal desportivo. A programação habitual regressa dentro de breves horas com todas as transmissões em direto, resumos alargados, magazines especializados e a cobertura completa das grandes competições nacionais e internacionais.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018124500 +0000" stop="20261018125000 +0000">
-    <title lang="pt">UEFA Champions League: RC Lens x Sporting CP</title>
-    <desc lang="pt">Grande noite europeia na UEFA Champions League com o confronto entre os franceses do RC Lens e o Sporting Clube de Portugal. No fervoroso Stade Bollaert-Delelis, os leões enfrentam a intensidade física dos sang et or num teste exigente para as ambições leoninas na prova milionária.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="DAZN1.pt@HD" start="20261018125000 +0000" stop="20261018150000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 1 PT para transmissão desportiva de futebol em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="DAZN2.pt@HD" start="20261018125000 +0000" stop="20261018150000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN</title>
-    <desc lang="pt">Período sem transmissão específica anunciada na grelha da DAZN 2 PT. Canal dedicado à emissão de competições desportivas e transmissões em direto.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV1.pt@HD" start="20261018125500 +0000" stop="20261018150000 +0000">
-    <title lang="pt">Serie A: Fiorentina x Como 1907 (Direto)</title>
-    <desc lang="pt">Transmissão em direto do confronto da Serie A italiana entre a Fiorentina e o Como 1907, diretamente do Estádio Artemio Franchi, em Florença. O conjunto toscano entra em campo determinado a impor o seu futebol ofensivo perante a organizada equipa visitante no principal escalão transalpino.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV2.pt@HD" start="20261018125500 +0000" stop="20261018151000 +0000">
-    <title lang="pt">Ligue 1: Angers x Marselha (Direto)</title>
-    <desc lang="pt">Transmissão em direto do encontro da Ligue 1 francesa entre o Angers SCO e o Olympique de Marselha, no Stade Raymond Kopa. O histórico emblema do sul de França desloca-se ao Vale do Loire com a ambição de somar três pontos na luta pelos lugares da frente.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261018130000 +0000" stop="20261018143000 +0000">
-    <title lang="pt">Sem Emissão</title>
-    <desc lang="pt">Período sem emissão ativa na grelha da DAZN 5 PT. A programação desportiva regressa no próximo horário agendado.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018130000 +0000" stop="20261018132500 +0000">
-    <title lang="pt">Notícias Extra — Atualização Desportiva (Direto)</title>
-    <desc lang="pt">Emissão informativa especial em direto na Sport TV para acompanhamento das notícias de última hora no panorama desportivo. Ligações em direto aos estádios, reações rápidas dos protagonistas e síntese atualizada dos principais acontecimentos do futebol e das modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV5.pt@HD" start="20261018130000 +0000" stop="20261018150000 +0000">
-    <title lang="pt">Premier Padel: Milão P1 — Final Feminina (Direto)</title>
-    <desc lang="pt">Transmissão em direto da grande Final Feminina do torneio Milão P1 do circuito Premier Padel, diretamente da Allianz Cloud, em Milão. As duas melhores duplas da semana medem forças num encontro de altíssimo nível técnico e físico pela conquista do prestigiado troféu italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Padel</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018132500 +0000" stop="20261018140000 +0000">
-    <title lang="pt">Futebol Arte: Gonçalo Paciência (Magazine)</title>
-    <desc lang="pt">Episódio do magazine «Futebol Arte», conduzido por Luís Freitas Lobo, dedicado ao perfil técnico e à carreira do avançado português Gonçalo Paciência. Uma conversa intimista sobre a estética do jogo, a criatividade no último terço e as experiências do internacional luso no futebol europeu e mundial.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="DAZN4.pt@HD" start="20261018133000 +0000" stop="20261018165500 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Futebol americano em Direto)</title>
-    <desc lang="pt">Janela reservada na grelha da DAZN 4 PT para transmissão desportiva de futebol americano em direto. A ficha técnica detalhada do encontro ainda não foi disponibilizada pelo operador.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018133000 +0000" stop="20261018143500 +0000">
-    <title lang="pt">Superbike World SBK: GP de Espanha — Corrida 2 (Direto)</title>
-    <desc lang="pt">Transmissão em direto da Corrida 2 do Grande Prémio de Espanha de WorldSBK, no traçado andaluz de Jerez de la Frontera. O encerramento do fim de semana da categoria rainha das motos de produção promete travagens no limite, gestão crítica de pneus e duelos intensos até à bandeira de xadrez.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Desportos motorizados</category>
-  </programme>
-  <programme channel="SPORTTV6.pt@HD" start="20261018135500 +0000" stop="20261018160000 +0000">
-    <title lang="pt">Liga Escocesa: Celtic x Heart of Midlothian (Direto)</title>
-    <desc lang="pt">Transmissão em direto do encontro da Scottish Premiership entre o Celtic e o Heart of Midlothian, a partir de Celtic Park, em Glasgow. Os Hoops contam com o apoio vibrante das suas bancadas para defrontar o tradicional emblema de Edimburgo na luta pelo título escocês.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018135800 +0000" stop="20261018140900 +0000">
-    <title lang="pt">Fundação Benfica — Responsabilidade Social (Magazine)</title>
-    <desc lang="pt">Magazine dedicado ao trabalho humanitário e de responsabilidade social desenvolvido pela Fundação Benfica em Portugal e no mundo. Conheça de perto os projetos de inclusão, promoção do sucesso educativo de jovens e concretização de sonhos que refletem os valores solidários do Sport Lisboa e Benfica.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018140000 +0000" stop="20261018143000 +0000">
-    <title lang="pt">Serie A: Bolonha x Inter de Milão (Resumo Alargado)</title>
-    <desc lang="pt">Resumo alargado do encontro da Serie A entre o Bolonha e o Inter de Milão, disputado no Estádio Renato Dall'Ara, na Emília-Romanha. Confira os golos e os principais lances de perigo da visita dos nerazzurri a um dos terrenos mais exigentes do campeonato italiano.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018140000 +0000" stop="20261018141000 +0000">
-    <title lang="pt">Golfe — Circuito FPG: Taça da FPG BPI — Santo Estêvão (Magazine)</title>
-    <desc lang="pt">Magazine com os destaques da Taça da Federação Portuguesa de Golfe BPI, disputada no percurso ribatejano de Santo Estêvão. Uma análise aos duelos em formato match play, às tacadas decisivas e aos protagonistas de uma das provas mais emblemáticas do calendário nacional.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="BTV.pt@HD" start="20261018140900 +0000" stop="20261018155700 +0000">
-    <title lang="pt">Futebol Sub-17: SL Benfica x Despertar SC — Nacional de Juvenis (Diferido)</title>
-    <desc lang="pt">Reposição do jogo do Campeonato Nacional da II Divisão de Juvenis (Sub-17) entre o SL Benfica e o Despertar SC, realizado no Benfica Campus, no Seixal. Acompanhe a evolução das jovens promessas da cantera benfiquista perante a formação alentejana de Beja num duelo de futebol formativo.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Futebol</category>
-  </programme>
-  <programme channel="SPORTTV3.pt@HD" start="20261018141000 +0000" stop="20261018151000 +0000">
-    <title lang="pt">Ténis: ATP 500 Tóquio — Resumo (Magazine)</title>
-    <desc lang="pt">Magazine dedicado aos melhores momentos do ATP 500 de Tóquio, realizado no Ariake Coliseum, na capital japonesa. Recorde os duelos mais eletrizantes, os pontos de antologia e a consagração do campeão nesta prova histórica de piso rápido do circuito mundial masculino.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
-  </programme>
-  <programme channel="DAZN5.pt@HD" start="20261018143000 +0000" stop="20261018151000 +0000">
-    <title lang="pt">Sem transmissão anunciada / Canal de eventos DAZN (Desporto Motorizado)</title>
-    <desc lang="pt">Espaço de programação desportiva (desporto motorizado) na grelha da DAZN 5 PT sem detalhe específico disponibilizado pelo operador à data.</desc>
-    <category lang="pt">Estilo de vida</category>
-  </programme>
-  <programme channel="SPORTTV.pt@HD" start="20261018143000 +0000" stop="20261018145500 +0000">
-    <title lang="pt">Notícias Extra — Atualização Desportiva (Direto)</title>
-    <desc lang="pt">Emissão informativa especial em direto na Sport TV para acompanhamento das notícias de última hora no panorama desportivo. Ligações em direto aos estádios, reações rápidas dos protagonistas e síntese atualizada dos principais acontecimentos do futebol e das modalidades.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Notícias</category>
-  </programme>
-  <programme channel="SPORTTV4.pt@HD" start="20261018143500 +0000" stop="20261018150000 +0000">
-    <title lang="pt">Motorcycle Sports — Magazine de Motociclismo</title>
-    <desc lang="pt">Magazine dedicado aos apaixonados pelo motociclismo de competição e pelo universo das duas rodas. O programa analisa as provas dos campeonatos mundiais e nacionais de velocidade e todo-o-terreno, apresentando ainda ensaios técnicos, novidades das marcas e entrevistas com pilotos.</desc>
-    <category lang="pt">Desporto</category>
-    <category lang="pt">Magazine de desporto</category>
   </programme>
 </tv>
